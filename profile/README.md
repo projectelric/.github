@@ -1,21 +1,19 @@
 ![Logo](https://i.imgur.com/UAQdrlF.png)
 
-
 # Project Elric
 
 Here to build secure and efficient softwares.
 
-
 ## License
 
 Unless otherwise stated: [GNU General Public License v3.0](https://choosealicense.com/licenses/mit/)
-
 
 ## Contributing and Organization Membership
 
 Since our organization is still in the preparation process, we are currently not accepting new participants. Please check back later.
 
 When the time comes, a Discord server link will be shared here for communication between participants and an application form for organization membership.
+
 ## FAQ
 
 #### What is Project Elric?
@@ -38,7 +36,26 @@ However, some of our projects (such as video games, which require so much workfo
 
 Regardless of the project being proprietary or not, we will always respect the privacy and comfort of our users. This comes first.
 
+## Technologies
 
-#### Why "Elric"?
+**Project Management:** Jira & Trello / Notion
 
-Now that is personal. If you really want to know, maybe we can talk about it once you join us :)
+**Team Communication:** Discord & Slack
+
+**Documentation:** Komment AI
+
+**Commenting:** ReviewNB
+
+**Code Review & Analyze:** SonarCloud / CodeFactor
+
+**CI/CD:** CircleCI
+
+**Pull Request Consistency & Styling:** Restyled
+
+**Website Deployment:** Cloudflare Pages
+
+**Image Optimization:** Imgbot
+
+**Forms:** Budibase / HeyForm
+
+**Translation & Localization:** Crowdin / GitLocalize
