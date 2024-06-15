@@ -36,26 +36,28 @@ However, some of our projects (such as video games, which require so much workfo
 
 Regardless of the project being proprietary or not, we will always respect the privacy and comfort of our users. This comes first.
 
-## Technologies
+## Technologies & Tools
 
-**Project Management:** Jira & Trello / Notion
+**Service Status Monitoring:** [Instatus](https://instatus.com/why)
 
-**Team Communication:** Discord & Slack
+**Project & Service Management:** [Jira](https://jira.atlassian.com/) & [Trello](https://trello.com/home.html) / [Notion](https://www.notion.so/product)
 
-**Documentation:** Komment AI
+**Team Communication:** [Discord](https://discord.com/) & [Slack](https://slack.com/)
 
-**Commenting:** ReviewNB
+**Documentation:** [Komment AI](https://www.komment.ai/)
 
-**Code Review & Analyze:** SonarCloud / CodeFactor
+**Commenting:** [ReviewNB](https://www.reviewnb.com/)
 
-**CI/CD:** CircleCI
+**Code Review & Analyze:** [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) / [CodeFactor](https://www.codefactor.io/features)
 
-**Pull Request Consistency & Styling:** Restyled
+**CI/CD:** [CircleCI](https://circleci.com/)
 
-**Website Deployment:** Cloudflare Pages
+**Pull Request Consistency & Styling:** [Restyled](https://restyled.io/)
 
-**Image Optimization:** Imgbot
+**Website Deployment:** [Cloudflare Pages](https://pages.cloudflare.com/)
 
-**Forms:** Budibase / HeyForm
+**Image Optimization:** [Imgbot](https://imgbot.net/)
 
-**Translation & Localization:** Crowdin / GitLocalize
+**Forms:** [Budibase](https://budibase.com/) / [HeyForm](https://heyform.net/)
+
+**Translation & Localization:** [Crowdin](https://crowdin.com/features) / [GitLocalize](https://gitlocalize.com/)
