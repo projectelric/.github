@@ -40,21 +40,25 @@ Regardless of the project being proprietary or not, we will always respect the p
 
 **Service Status Monitoring:** [Instatus](https://instatus.com/why)
 
-**Project & Service Management:** [Jira](https://jira.atlassian.com/) & [Trello](https://trello.com/home.html) / [Notion](https://www.notion.so/product)
+**Project & Service Management:** [Jira](https://www.atlassian.com/software/jira)
 
-**Team Communication:** [Discord](https://discord.com/) & [Slack](https://slack.com/)
+**Collaboration:** [Confluence](https://www.atlassian.com/software/confluence)
+
+**Communication:** [Discord](https://discord.com/) & [Slack](https://slack.com/)
 
 **Documentation:** [Komment AI](https://www.komment.ai/)
 
-**Commenting:** [ReviewNB](https://www.reviewnb.com/)
+**Knowledge Management:** [Stack Overflow for Teams](https://stackoverflowteams.com/) / [GitBook](https://www.gitbook.com/) / [ReviewNB](https://www.reviewnb.com/)
 
-**Code Review & Analyze:** [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) / [CodeFactor](https://www.codefactor.io/features)
+**UI Design:** [Figma](https://www.figma.com/)
+
+**Code Review & Analyze:** [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) & [CodeFactor](https://www.codefactor.io/features)
 
 **CI/CD:** [CircleCI](https://circleci.com/)
 
 **Pull Request Consistency & Styling:** [Restyled](https://restyled.io/)
 
-**Website Deployment:** [Cloudflare Pages](https://pages.cloudflare.com/)
+**Website Deployment, Performance and Security:** [Cloudflare](https://www.cloudflare.com/) & [Cloudflare Pages](https://pages.cloudflare.com/)
 
 **Image Optimization:** [Imgbot](https://imgbot.net/)
 
