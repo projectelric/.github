@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/UAQdrlF.png)
+![Logo](https://i.imgur.com/TKuX5US.png)
 
 # Project Elric
 
